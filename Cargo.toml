@@ -1,0 +1,9 @@
+[package]
+name = "gts-parser"
+version = "0.1.0"
+authors = ["Pierre Zemb <contact@pierrezemb.fr>"]
+
+[dependencies]
+time = "0.1"
+warp10 = "0.10.0"
+nom = "4.0.0-beta2"
